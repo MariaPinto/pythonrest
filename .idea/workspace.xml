@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7eca1897-3cdf-4345-82a7-0604ef61f0cf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/servicios/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/servicios/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/API/admin.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
